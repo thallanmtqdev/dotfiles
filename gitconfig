@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = thallanmtqdev@gmail.com
+	name = Allan Thome
